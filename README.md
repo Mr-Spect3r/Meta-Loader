@@ -3,13 +3,21 @@
 Features:
 
 • Self-Delete after execute file:✅
+
 • Mutex-Control:✅
+
 • AntiDebug(simple):✅
+
 • Anti-AnyRun(win7):✅
+
 • Anti-VM:✅
+
 • Anti-CIS:✅
+
 • Autorun:✅
+
 • HideFile:✅
+
 • Obfuscator(rename-funcs):✅
 
 

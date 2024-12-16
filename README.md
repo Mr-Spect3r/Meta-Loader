@@ -1,5 +1,7 @@
 # MetaLoader
 
+<img src="https://github.com/user-attachments/assets/27cd77d0-9a81-40b5-865f-e2d9cf498fa4"> 
+
 Features:
 
 • Self-Delete after execute file:✅
